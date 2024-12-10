@@ -42,10 +42,8 @@ The **School Management System in PHP** has many features that include the follo
 
 ![image](https://github.com/user-attachments/assets/5536adae-3064-4a4b-8672-fea4318912ee)
 
-
 ## How to run the School Management System in PHP?
 These are the steps on **how to run School Management System in PHP Open Source**
-
 
 1.**Download Source Code**
 
@@ -76,6 +74,12 @@ Final, type to the URL localhost/sms
 ### 📌 The full documentation for the School Management System in PHP is available at: ⬇️⬇️⬇️
 
 https://itsourcecode.com/free-projects/php-project/school-management-system-in-php-open-source/
+
+
+### [ADVANCED] School Management System in PHP with Source Code ⬇️⬇️⬇️
+
+https://itsourcecode.com/free-projects/php-project/advanced-school-management-system-in-php-with-source-code/
+
 
 
 
